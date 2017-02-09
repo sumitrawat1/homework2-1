@@ -1,3 +1,8 @@
+<?php
+$description = $_POST['description'];
+$price = $_POST['price'];
+$discount = $_POST['discount'];
+?>
 <!DOCTYPE html>
 <html>
 <head>
